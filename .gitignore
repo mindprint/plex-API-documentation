@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon
+ files
+Icon?
+
+# Resource fork files
+._*
+
+# Spotlight and other macOS metadata
+.Spotlight-V100
+.Trashes
+.DocumentRevisions-V100
+.fseventsd/
+.VolumeIcon.icns
+
+# VCS
+.DS_Store?
+
+# End of macOS ignores
